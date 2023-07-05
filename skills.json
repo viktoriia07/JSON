@@ -1,0 +1,16 @@
+{
+	"Hard skills":{
+		"1":"Technical skills",
+		"2":"Computer skills",
+		"3":"Microsoft Office skills",
+		"4":"Analytical skills",
+		"5":"Marketing skills"
+	},
+	"Soft skills":{
+		"1":"Communication",
+		"2":"Adaptability",
+		"3":"Problem-solving",
+		"4":"Teamwork",
+		"5":"Creativity"
+	}
+}
